@@ -1,0 +1,23 @@
+# Carpetas y archivos comunes a ignorar en proyectos PHP
+
+/vendor/
+/node_modules/
+/.vscode/
+/.idea/
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración sensibles
+
+.env
+/config.php
+
+# Directorios específicos de XAMPP que pueden contener archivos sensibles
+
+/htdocs/
+/logs/
+
+# Archivos específicos que puedas tener en tu proyecto
+
+# /path/to/specific/file
+
